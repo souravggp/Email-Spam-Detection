@@ -9,8 +9,6 @@ This project is a machine learning application designed to classify emails as ei
 - **Evaluation**: Measures model performance using metrics like accuracy, precision, recall, and F1-score.
 
 
-   ```
-
 ## Usage
 
 1. Load the Jupyter Notebook:
